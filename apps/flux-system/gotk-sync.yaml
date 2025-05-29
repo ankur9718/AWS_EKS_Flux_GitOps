@@ -8,7 +8,7 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: main
+    branch: demo
   secretRef:
     name: flux-system
   url: ssh://git@github.com/ankur9718/AWS_EKS_Flux_GitOps
